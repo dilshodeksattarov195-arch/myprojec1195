@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpecrypt",
+        "uuid": 4419110,
+        "checksum": "qbu32"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
